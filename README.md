@@ -1,4 +1,4 @@
-# JavaScript & LeetCode: The Interview Bootcamp (Classic Edition)
+# JavaScript & LeetCode
 
 ## Prerequisites
 * [Node.js/npm](https://nodejs.org/en/)
